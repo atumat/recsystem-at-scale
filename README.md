@@ -1,1 +1,1 @@
-A backend API that recommends similar movies.
+A scalable backend recommendation system with ML-powered retrieval and ranking.
