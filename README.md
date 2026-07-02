@@ -3,7 +3,6 @@ A scalable backend recommendation system with ML-powered retrieval and ranking.
 
 
 ## Features
-
 - Recommendation API
 - Content-based filtering
 - FastAPI backend
