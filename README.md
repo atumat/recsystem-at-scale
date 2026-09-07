@@ -6,6 +6,7 @@ A scalable backend recommendation system with ML-powered retrieval and ranking.
 - Content-based filtering
 - FastAPI backend
 
+
 ## Run
 pip install -r requirements.txt
 
